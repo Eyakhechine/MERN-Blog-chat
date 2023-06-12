@@ -23,6 +23,9 @@ Real-Time Chat: The application includes a real-time chat feature that allows us
 
 
 Technologies Used:
+
+
+
 Frontend: The frontend of the application is built using React.js, a popular JavaScript library for building user interfaces. React.js provides a component-based approach, making it easier to create reusable and interactive UI components. React Material-UI is used as the UI component library to achieve a modern and visually appealing design.
 
 Backend: The backend of the application is developed using Node.js, a JavaScript runtime built on Chrome's V8 engine. Node.js allows for efficient and scalable server-side development. Express.js, a minimalist web application framework, can be used to handle HTTP requests, routing, and middleware implementation.
