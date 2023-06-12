@@ -1,4 +1,5 @@
 Web Application Forum with Real-Time Chat and User Management:
+
 This is a web application designed to provide a forum-like experience, allowing users to create posts, comment on posts, express likes and dislikes, and view the number of post views. The application also features a real-time chat functionality to enable users to communicate with each other in real-time. Before using the application, users need to create an account.
 
 
